@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = joelerickson@hotmail.co.uk
+	email = zsh install.sh
 	name = Erickson Payumo
